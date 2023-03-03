@@ -1,0 +1,8 @@
+@article{zhang2021cpm,
+  title={CPM: A Large-scale Generative Chinese Pre-trained Language Model},
+  author={Zhang, Zhengyan and Han, Xu and Zhou, Hao and Ke, Pei and Gu, Yuxian and Ye, Deming and Qin, Yujia and Su, Yusheng and Ji, Haozhe and Guan, Jian and others},
+  journal={AI Open},
+  volume={2},
+  pages={93--99},
+  year={2021}
+}
